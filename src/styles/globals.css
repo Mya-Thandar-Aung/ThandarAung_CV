@@ -1,0 +1,26 @@
+.contact{
+  background-color: darkblue;
+}
+
+.contact h4{
+  color: #fff;
+}
+
+hr{
+  color: #fff;
+  width: 330px;
+}
+
+.name{
+  background-color: rgb(210, 208, 208);
+}
+
+.info{
+  color: darkgrey;
+  /* opacity: 5px; */
+}
+
+.background hr{
+  color: darkblue;
+  width: 700px;
+}
